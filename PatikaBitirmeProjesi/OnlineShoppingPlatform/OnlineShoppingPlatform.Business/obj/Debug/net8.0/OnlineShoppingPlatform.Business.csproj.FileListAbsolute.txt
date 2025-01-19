@@ -1,0 +1,60 @@
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.deps.json
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.dll
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.pdb
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Data.dll
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Data.pdb
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineSh.5FBF501D.Up2Date
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.dll
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\refint\OnlineShoppingPlatform.Business.dll
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.pdb
+C:\Users\User\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\ref\OnlineShoppingPlatform.Business.dll
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.deps.json
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.dll
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.pdb
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Data.dll
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Data.pdb
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.AssemblyInfoInputs.cache
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineSh.5FBF501D.Up2Date
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.dll
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\refint\OnlineShoppingPlatform.Business.dll
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.pdb
+C:\Users\ahmet\Desktop\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\ref\OnlineShoppingPlatform.Business.dll
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.deps.json
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.dll
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.pdb
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Data.dll
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Data.pdb
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineSh.5FBF501D.Up2Date
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.dll
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\refint\OnlineShoppingPlatform.Business.dll
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.pdb
+C:\Users\User\Desktop\Yeni klasör (9)\sonprojeödevim\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\ref\OnlineShoppingPlatform.Business.dll
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.deps.json
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.dll
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Business.pdb
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Data.dll
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\bin\Debug\net8.0\OnlineShoppingPlatform.Data.pdb
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineSh.5FBF501D.Up2Date
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.dll
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\refint\OnlineShoppingPlatform.Business.dll
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\OnlineShoppingPlatform.Business.pdb
+C:\Users\berka\OneDrive\Masaüstü\PatikaBitirmeProjesi\OnlineShoppingPlatform\OnlineShoppingPlatform.Business\obj\Debug\net8.0\ref\OnlineShoppingPlatform.Business.dll

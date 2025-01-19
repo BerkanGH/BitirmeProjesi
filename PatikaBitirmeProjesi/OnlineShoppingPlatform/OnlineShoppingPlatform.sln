@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShoppingPlatform.Data", "OnlineShoppingPlatform.Data\OnlineShoppingPlatform.Data.csproj", "{B5E21DF9-2C3D-469E-9B9E-4A96351A1C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShoppingPlatform.Business", "OnlineShoppingPlatform.Business\OnlineShoppingPlatform.Business.csproj", "{1A1AB8A3-55C6-438D-A8DF-FB277016B79C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShoppingPlatform.WebApi", "OnlineShoppingPlatform.WebApi\OnlineShoppingPlatform.WebApi.csproj", "{8F10C4A5-F365-4F43-B81E-75700691B92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E21DF9-2C3D-469E-9B9E-4A96351A1C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E21DF9-2C3D-469E-9B9E-4A96351A1C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E21DF9-2C3D-469E-9B9E-4A96351A1C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E21DF9-2C3D-469E-9B9E-4A96351A1C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1AB8A3-55C6-438D-A8DF-FB277016B79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1AB8A3-55C6-438D-A8DF-FB277016B79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1AB8A3-55C6-438D-A8DF-FB277016B79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1AB8A3-55C6-438D-A8DF-FB277016B79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F10C4A5-F365-4F43-B81E-75700691B92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F10C4A5-F365-4F43-B81E-75700691B92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F10C4A5-F365-4F43-B81E-75700691B92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F10C4A5-F365-4F43-B81E-75700691B92B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
